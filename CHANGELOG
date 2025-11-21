@@ -1,3 +1,6 @@
+1.9.3
+ - Windows' static version was missing/incorrect (SSL_STATIC LIB vs SSL_LIB_STATIC)
+ 
 1.9.2
  - remove libatomic dependency
  
